@@ -1,0 +1,11 @@
+name: ArenaSwitcher
+main: me.gmx.arenaswitcher.ArenaSwitcher
+version: 1
+author: GMX
+commands:
+  play:
+  map:
+  wzarenavote:
+  wzarena:
+    aliases: [warzonearena]
+  

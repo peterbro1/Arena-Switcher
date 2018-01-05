@@ -1,0 +1,14 @@
+Copyright 2017, Peter Browning, All rights reserved.
+
+
+
+
+
+
+This work, hereby formally known as "ArenaSwitcher", is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.
+ To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+ 
+ By incorporating this plug-in into your privately owned owned and hosted Minecraft player server, you hereby formally accept the following terms and conditions:
+ 1. Me and my affiliated will not share or attempt to reproduce this code in any way shape or form.
+ 2. 
+ 

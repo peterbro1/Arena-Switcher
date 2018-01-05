@@ -1,0 +1,8 @@
+prefix: '&4[&8ArenaSwitcher&4]'
+no-permission: 'Insufficient permission!'
+map-world: 'warzone'
+lobby-world: 'WZLobby'
+switch-timer: 120
+gui-name: 'Please vote for the next map'
+##add lore: for extra description of the map
+arenas:
